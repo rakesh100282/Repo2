@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is BC93-1747
+
+ Directory of C:\Users\Administrator\Desktop\JAVA_Project
+
+09/14/2018  02:18 PM    <DIR>          .
+09/14/2018  02:18 PM    <DIR>          ..
+09/12/2018  04:19 PM               677 Hello.class
+09/12/2018  03:47 PM               178 Hello.java
+09/14/2018  02:18 PM                 0 test1.txt
+               3 File(s)            855 bytes
+               2 Dir(s)   3,900,727,296 bytes free
